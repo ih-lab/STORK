@@ -31,7 +31,7 @@ $ cd ..
 
 * Each script in slim dataset should be run separately based on the selected architecture. The slim folder contains some sub-folders. 
 
-* You can set up the parameters of each architectures in ârunâ sub-folder. For example you can set the architecture in a way to run from scratch or trained for the last or all layer. Also you can set the batch size or the number of maximum steps. 
+* You can set up the parameters of each architectures in “run” sub-folder. For example you can set the architecture in a way to run from scratch or trained for the last or all layer. Also you can set the batch size or the number of maximum steps. 
 
 * see the result folder at scripts/result as the result of running the above script.
 
