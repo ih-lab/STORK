@@ -26,7 +26,7 @@ $ python convert.py ../Images/train process/ 0
 $ ./run/load_inception_v1.sh
 
 * If you got the bash error like permission denied, run the following line in your shell:
-$ cd ..
+$ chmod 777 load_inception_v1.sh
 
 
 * Each script in slim dataset should be run separately based on the selected architecture. The slim folder contains some sub-folders. 
