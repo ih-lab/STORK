@@ -5,7 +5,7 @@ Classify IVF images in real time.
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Stork Logo](docs/images/logo.jpg)
+![Stork Logo](docs/logo.jpg)
 
 To run the STORK framework please see the Flowchart.pdf and follow these steps:
 
