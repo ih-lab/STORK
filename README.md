@@ -1,7 +1,7 @@
 # STORK
 
 
-<img src="https://github.com/ih-lab/STORK/blob/master/useful/images.png" />
+<img src="https://github.com/ih-lab/STORK/logo.jpg" />
 
 
 
