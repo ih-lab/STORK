@@ -21,6 +21,8 @@ To run the STORK framework please see the Flowchart.pdf and follow these steps:
 
 $ python convert.py ../Images/train process/ 0
 
+* Keep the percentage of validation images as 0 because we set 15% for validation inside the code
+
 * It will save converted .tf records in the "process" directory.
 
 6) The Inception-V1 architecture should be run on the Train set images from the "STORK/scripts/slim" directory. First got the the following directory: STORK/scripts/slim. Then open load_inception_v1.sh located in "run/" directory and edit PRETRAINED_CHECKPOINT_DIR,TRAIN_DIR, and DATASET_DIR addresses. See the load_inception_v1.sh, for instance. Then, run the following command in shell script: 
